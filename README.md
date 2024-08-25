@@ -21,7 +21,7 @@
 # 프로젝트 진행 일정 (간략하게 작성 , 자세한 내용은 md 링크)(전체적으로 사진을 칸반보드(Issue, PR) 활용할 수 있으면 좋겠음)
 
 ## 1. 프로젝트 기본(전체적) 일정 
-<img src = "https://github.com/user-attachments/assets/13d649e7-6fa1-4644-abe6-7fcf12faa6b0"  width="90%" height="90%">
+<img src = "https://github.com/user-attachments/assets/13d649e7-6fa1-4644-abe6-7fcf12faa6b0"  width="100%" height="100%">
 
 * 일정 계획 : [DAYPLAN.md](https://github.com/1-Stone-3-Birds/SB_Works/blob/main/DAYPLAN.md)  
 
