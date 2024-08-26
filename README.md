@@ -14,21 +14,23 @@
 
 # 프로젝트 요구사항 정의서
 
-* 요구사항 정의서 : [REQUIRE.md](https://github.com/1-Stone-3-Birds/SB_Works/blob/main/Require.md) 
-
-<img src = "https://github.com/user-attachments/assets/30d554a6-a220-498d-88df-f553aadcd054"  width="80%" height="80%">
+* 요구사항 정의서 : [REQUIRE.md](https://github.com/1-Stone-3-Birds/SB_Works/blob/main/Require.md)
+* 
+<img src = "https://github.com/user-attachments/assets/cc0b7d55-c789-42c4-83bd-a2bd556ff623"  width="80%" height="80%">
 
 # 프로젝트 진행 일정 (간략하게 작성 , 자세한 내용은 md 링크)(전체적으로 사진을 칸반보드(Issue, PR) 활용할 수 있으면 좋겠음)
 
-## 1. 프로젝트 기본(전체적) 일정 
-<img src = "https://github.com/user-attachments/assets/13d649e7-6fa1-4644-abe6-7fcf12faa6b0"  width="100%" height="100%">
+## 1. 프로젝트 개발 일정 
+<img src = "https://github.com/user-attachments/assets/5db91c6f-9646-4172-b26b-fa7089bf3ddc"  width="100%" height="100%">
 
-* 일정 계획 : [DAYPLAN.md](https://github.com/1-Stone-3-Birds/SB_Works/blob/main/DAYPLAN.md)  
+* 일정 계획 : [SCHEDULE.md](https://github.com/1-Stone-3-Birds/SB_Works/blob/main/Schedule.md)  
 
-## 2. 프로젝트 개발 일정 (마일 스톤 설정, 칸반보드)
-* REQUIRE.md 기반으로 작성
-## 3. 프로젝트 테스트 일정 (마일스톤 설정, 칸반보드)
-* TESTPLAN.md 기반으로 작성 
+## 2. 프로젝트 테스트 일정 (마일스톤 설정, 칸반보드)
+<img src = "https://github.com/user-attachments/assets/f2eb31a9-549e-4b6c-9cb8-e612bbfeeee5" width="100%" height="100%">
+
+* 기본 업무는 실선, 추가적 업무는 점선, 중요한 업무는 이중선으로 표시
+  
+* 테스트 결과 : [TEST.md](https://github.com/1-Stone-3-Birds/SB_Works/blob/main/Test.md)
 
 # 기술 스택 
 
@@ -38,8 +40,7 @@
 ![data flow - Page 1 (2)](https://github.com/user-attachments/assets/2746e20b-049f-4b00-9ad4-74ed35b00a6a)
 
 
-
-
+![테스트 일정](https://github.com/user-attachments/assets/f2eb31a9-549e-4b6c-9cb8-e612bbfeeee5)
 
 
 
