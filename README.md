@@ -40,9 +40,6 @@
 ![data flow - Page 1 (2)](https://github.com/user-attachments/assets/2746e20b-049f-4b00-9ad4-74ed35b00a6a)
 
 
-![테스트 일정](https://github.com/user-attachments/assets/f2eb31a9-549e-4b6c-9cb8-e612bbfeeee5)
-
-
 
 ## 프로젝트 코드 
 * 프로젝트 코드:  [team_repo](https://github.com/1-Stone-3-Birds/SB_Works) 	
