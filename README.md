@@ -30,7 +30,7 @@
 
 * 필수 업무는 실선, 부가 업무는 점선, 연계 업무는 이중선으로 표시
 
-* 테스트 결과 : [TEST.md](https://github.com/1-Stone-3-Birds/SB_Works/blob/main/Test.md)
+* 테스트 일정 : [TEST.md](https://github.com/1-Stone-3-Birds/SB_Works/blob/main/Test.md)
 
 # 기술 스택 
 
