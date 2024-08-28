@@ -25,7 +25,7 @@
 
 * 일정 계획 : [SCHEDULE.md](https://github.com/1-Stone-3-Birds/SB_Works/blob/main/Schedule.md)  
 
-## 2. 프로젝트 테스트 일정 (마일스톤 설정, 칸반보드)
+## 2. 프로젝트 테스트 일정 
 <img src = "https://github.com/user-attachments/assets/f2eb31a9-549e-4b6c-9cb8-e612bbfeeee5" width="100%" height="100%">
 
 * 필수 업무는 실선, 부가 업무는 점선, 연계 업무는 이중선으로 표시
