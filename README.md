@@ -34,7 +34,10 @@
 
 # 기술 스택 
 
-![플로우차트 - 1페이지 (3)](https://github.com/user-attachments/assets/15db0097-0cc8-4460-b5be-7aeb2ed83b1d)
+- ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat&logo=apache-kafka&logoColor=white): 실시간 데이터 스트리밍 
+- ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white): 대규모 데이터 처리 / 제플린 분석 언어
+- ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017E9A?style=flat&logo=apache-airflow&logoColor=white): 데이터 파이프라인 
+- ![Apache Zeppelin](https://img.shields.io/badge/Apache%20Zeppelin-006400?style=flat&logo=apache-zeppelin&logoColor=white): 데이터 시각화/ 분석
 
 # 프로젝트 아키텍처 구상도 
 ![data flow - Page 1 (2)](https://github.com/user-attachments/assets/2746e20b-049f-4b00-9ad4-74ed35b00a6a)
