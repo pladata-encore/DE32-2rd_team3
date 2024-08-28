@@ -18,7 +18,7 @@
   
 <img src = "https://github.com/user-attachments/assets/cc0b7d55-c789-42c4-83bd-a2bd556ff623"  width="80%" height="80%">
 
-# 프로젝트 진행 일정 (간략하게 작성 , 자세한 내용은 md 링크)(전체적으로 사진을 칸반보드(Issue, PR) 활용할 수 있으면 좋겠음)
+# 프로젝트 진행 일정
 
 ## 1. 프로젝트 개발 일정 
 <img src = "https://github.com/user-attachments/assets/5db91c6f-9646-4172-b26b-fa7089bf3ddc"  width="100%" height="100%">
