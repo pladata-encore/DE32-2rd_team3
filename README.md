@@ -41,7 +41,7 @@
 
 # 프로젝트 프로그램 아키텍처 구상도 
 
-![data flow - Page 1 (5)](https://github.com/user-attachments/assets/d83d3dff-861c-4812-853f-d462e8b03c22)
+![data flow - Page 1 (3)](https://github.com/user-attachments/assets/db3c15c3-f127-4fd7-9257-b1bdab86ef88)
 
 
 # 프로젝트 코드 
