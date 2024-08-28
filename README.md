@@ -39,7 +39,7 @@
 - ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017E9A?style=flat&logo=apache-airflow&logoColor=white): 데이터 파이프라인 
 - ![Apache Zeppelin](https://img.shields.io/badge/Apache%20Zeppelin-006400?style=flat&logo=apache-zeppelin&logoColor=white): 데이터 시각화/ 분석
 
-# 프로젝트 아키텍처 구상도 
+# 프로젝트 프로그램 아키텍처 구상도 
 ![data flow - Page 1 (2)](https://github.com/user-attachments/assets/2746e20b-049f-4b00-9ad4-74ed35b00a6a)
 
 
