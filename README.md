@@ -46,9 +46,13 @@
 
 # 프로젝트 코드 
 * 프로젝트 코드:  [team_repo](https://github.com/1-Stone-3-Birds/SB_Works) 	
-	
+
 # 프로젝트 결과물 
-	- [PPT](https://docs.google.com/presentation/d/1cmYl2hK-Rk6n5wiSS8_QjRLWuUW6SjQNQTO95P-Cs-w/edit?usp=sharing)
+
+
+
+# 프로젝트 발표자료
+- [PPT](https://docs.google.com/presentation/d/1cmYl2hK-Rk6n5wiSS8_QjRLWuUW6SjQNQTO95P-Cs-w/edit?usp=sharing)
 
 # 프로젝트 회고 
 
