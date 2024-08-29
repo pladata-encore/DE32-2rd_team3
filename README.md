@@ -49,8 +49,22 @@
 
 # 프로젝트 결과물 
 
+## 채팅방
+
 ![image](https://github.com/user-attachments/assets/00a1a6fb-176a-4969-ba42-3b426f639108)
 
+## 감사 
+### 워드 클라우드
+
+![image](https://github.com/user-attachments/assets/82d8b4af-eb44-45c2-922f-ff115cac17a9)
+
+### 시간별 대화량
+
+![image](https://github.com/user-attachments/assets/2702219d-34c4-4167-a219-4dff1b5e75df)
+
+### 유저별 대화량
+
+![image](https://github.com/user-attachments/assets/b4c2c510-db6b-4934-8d65-f0c4b9a695c2)
 
 
 # 프로젝트 발표자료
