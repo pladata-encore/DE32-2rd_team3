@@ -49,6 +49,8 @@
 
 # 프로젝트 결과물 
 
+![image](https://github.com/user-attachments/assets/00a1a6fb-176a-4969-ba42-3b426f639108)
+
 
 
 # 프로젝트 발표자료
